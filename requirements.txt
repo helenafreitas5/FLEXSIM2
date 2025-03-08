@@ -1,0 +1,19 @@
+# Requisitos básicos
+streamlit>=1.31.0
+openai>=1.12.0
+python-dotenv>=1.0.0
+
+# Dependências para manipulação de dados
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Dependências para visualização
+plotly>=5.18.0
+matplotlib>=3.7.0
+
+# Dependências para processamento de linguagem natural
+nltk>=3.8.1
+
+# Utilidades
+requests>=2.31.0
+pillow>=10.0.0
